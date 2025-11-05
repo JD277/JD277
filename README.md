@@ -1,4 +1,19 @@
-## Hi there 👋
+## CTO of Aphat services 
+Soy el director de tecnologia de Alphat Services LLC. y me dedico actualmente a supervisar proyectos de diversas areas del mundo de la tecnologia desde IA y analisis de datos hasta el desarrollo de automatizaciones empresariales complejas 
+
+
+## Estoy aprendiendo...
+Actualmente estoy aprendiendo sobre N8N, electrónica y análisis de datos masivos en inteligencia artifical para ofrecer un mejorar los procesos de los proyectos de mi empresa
+
+## Puedes preguntarme sobre...
+- Robótica
+- Programación
+- Flowgramming con N8N
+- IA
+- Análisis de datos
+- Arduino
+  
+## Dato curioso
 
 <!--
 **JD277/JD277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
